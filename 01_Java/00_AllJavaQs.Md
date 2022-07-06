@@ -1,0 +1,107 @@
+## Java
+- Tell me about Java?
+- What do you like about Java?
+- Why might someone not like Java?
+- **Scopes**
+  - Tell me the scopes in Java.
+  - What is a scope?
+  - How do I make a variable of x scope?
+- **Access Modifiers**
+  - What are Access Modifiers?
+  - What are the Access Modifiers in Java?
+  - How are access modifiers different from scope?
+  - What does the access modifier x do?
+- **Keywords**
+  - Tell me Keywords in Java?
+  - What does final keyword do?
+    - On variable
+    - On a method
+    - On a class
+  - What does static do?
+- **Class Structure**
+  - How do I inherit a class?
+  - How do I make a constructor?
+  - How Do I implement an interface
+  - Override a method
+  - What is an abstract class?
+  - Abstract Class vs Interface?
+  - Variables in an abstract class or interface
+  - what is toString()?
+  - what is equals()?
+  - == vs equals()
+- **Exception Handling**
+  - How does try catch finally work?
+  - throws and throw keywords
+  - Checked vs unchecked exceptions?
+    - Give me an example of each
+  - Exception vs Error?
+- **JVM Architecture**
+  - What is the main method?
+  - What is the method signature of the main method?
+  - Where does every Java Application start?
+  - Heap vs Stack memory?
+  - What is the JRE and JVM?
+- **Java 8 features**
+  - What features were added in Java 8?
+  - What is a functional interface?
+  - What is a lambda?
+  - Where have you used lambdas?
+    - What is the Streams API
+- **Threads**
+  - What is a thread?
+  - Why would you multi-thread?
+  - Have you used threading?
+  - How would you make a thread?
+
+
+## Collections
+- What is the collcetions Framework?
+- What is a List?
+- What are some implementations of a list?
+  - ArrayList vs LinkedList
+- What is a Set?
+- What is a queue?
+  - what is a Deque?
+- What is a Map?
+- Difference between a List and a Set?
+- Is an array a collection?
+- How is an array different from a list?
+- Is a Map a collection?
+- What is the root class of collection hierarchy?
+- Collection interface vs Collections class
+- What factors do you consider when choosing a collection?
+
+## OOP
+- What is OOP?
+- ***What are the Pillars of OOP?***
+- What is your favorite Pillar?
+- **Abstraction**
+  - What is abstraction?
+  - Examples of Abstraction in Java.
+  - How do interfaces promote abstractions?
+- **Polymorphism**
+  - What is polymorphism
+  - Types of Polymorphism
+    - Runtime/Dynamic vs Compiled/Static polymorphism
+  - Overloading vs Overriding
+  - How do I overload a method?
+  - How do I override a method?
+- **Inheritance**
+  - What is inheritance?
+  - Why would I use inheritance?
+  - How do I inherit from a class?
+  - Does Java support multiple inheritence?
+  - How do I use an interface?
+  - What is a Marker Interface?
+- **Encapsulation**
+  - What is encapsulation?
+  - What are some benefits of encapsulation?
+  - How do I encapsulate a variable in Java?
+  - What are the access modifiers?
+  - What does X access modifier do?
+- **Design Patterns**
+  - What is a singleton
+  - How do I make a singleton
+  - When would I use a singleton
+  - What is a factory
+  - Example of a factory
